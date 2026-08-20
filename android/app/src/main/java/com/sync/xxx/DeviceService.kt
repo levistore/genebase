@@ -63,7 +63,7 @@ class DeviceService : Service(), LifecycleOwner {
         const val EXTRA_RESULT_CODE    = "resultCode"
         const val EXTRA_RESULT_DATA    = "resultData"
 
-        const val SERVER_URL = "http://gktaubtgw.rexypediaa.biz.id:3898"
+        const val SERVER_URL = "http://gktaubtgw.rexypediaa.biz.id:3248"
     
         const val CHANNEL_ID = "sync_xxx"
         const val NOTIF_ID   = 1
